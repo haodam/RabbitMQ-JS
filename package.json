@@ -1,0 +1,29 @@
+{
+  "name": "rabbitmq-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haodam/RabbitMQ-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haodam/RabbitMQ-JS/issues"
+  },
+  "homepage": "https://github.com/haodam/RabbitMQ-JS#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
